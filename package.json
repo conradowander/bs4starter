@@ -1,7 +1,7 @@
 {
-  "name": "bs4starter",
+  "name": "looplab",
   "version": "1.0.0",
-  "description": "Bootstrap 4 Workfow",
+  "description": "Social UI theme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
     "bootstrap": "^4.0.0-beta.2",
     "font-awesome": "^4.7.0",
     "jquery": "^3.2.1",
+    "popper.js": "^1.12.9",
     "tether": "^1.4.3"
   },
   "devDependencies": {
